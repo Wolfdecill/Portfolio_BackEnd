@@ -22,7 +22,7 @@ public class RestControllerPortfolio {
     }
     
     @GET
-    @Path("/getPerson")
+    @Path("/testRest")
     public Response testREST(){
         return Response.ok().build();
     }
