@@ -1,0 +1,11 @@
+Connection\DBManager.class
+DAOs\PortfolioDAO_Implementation.class
+Rest\RestControllerPortfolio.class
+Service\PortfolioService_Interface.class
+com\mycompany\portfolio_backend\JakartaRestConfiguration.class
+Service\PortfolioService_Implementation.class
+Rest\RestRouter.class
+com\mycompany\portfolio_backend\resources\JakartaEE10Resource.class
+DAOs\PortfolioDAO_Interface.class
+Classes\PersonalDetails.class
+Classes\Project.class
