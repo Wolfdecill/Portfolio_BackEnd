@@ -20,4 +20,10 @@ public class RestControllerPortfolio {
         PersonalDetails person= service.getPerson();
         return Response.ok().entity(person).build();
     }
+    
+    @GET
+    @Path("/getPerson")
+    public Response testREST(){
+        return Response.ok().build();
+    }
 }
